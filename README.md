@@ -15,7 +15,7 @@ Ionic 是一個專為行動裝置設計的一款受歡迎的 UI 框架. 在版�
 
 > Ionic is an open source UI tool kit using web technologies, traditionally ionic relies heavily on angular, in version 4, ionic team let us build ionic based project with any javascript framework
 
-<br><br>
+<br>
 
 ## 使用 vue-cli 建立專案 
 
