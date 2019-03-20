@@ -91,6 +91,6 @@ Vue.use(Ionic)
 + [Github](https://github.com/stephenlaichaowen/ionc-vue-example)
 
 ### 參考資料 :
-+ [Ionic 4 + Vue Basics - Reddit Clone](https://www.youtube.com/watch?v=o7rb1S2Txfw&t=130s)
-+ [Ionic Framework Docs](https://ionicframework.com/docs)
++ [Youtube 頻道 : Ionic 4 + Vue Basics - Reddit Clone](https://www.youtube.com/watch?v=o7rb1S2Txfw&t=130s)
++ [Ionic Framework Docs 官網](https://ionicframework.com/docs)
 
